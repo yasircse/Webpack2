@@ -6,7 +6,7 @@ class App extends Component {
     render() {
         return (
             <div>
-               <h1 className={styles.heading}>Hi from React</h1>
+               <h1 className={styles.heading}>Basic Boilerplate for Reactjs App</h1>
             </div>
         );
     }
